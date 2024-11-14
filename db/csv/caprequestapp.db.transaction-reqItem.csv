@@ -1,0 +1,3 @@
+itemNo,itemDesc,materialNo_ID,plant,quantity,unitPrice,header_requestNo
+ab5a0dcc-0ff2-4b8e-b33d-b99d0659eg94,Item 1,m1,Plant A,10,500.00,74dd3906-413c-4ff3-bba9-01d109187988
+1b9f8e7d-4e5c-7a2f-9d0b-8e6f7a3c5b2d,Laptop,12345,PLANT1,10,150.00,8e0e9e5e-5d8f-4f0c-9a2f-25d8f0e9332a
